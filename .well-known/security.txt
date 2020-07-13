@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:oscar@oscarr.nl
+Encryption: https://keybase.io/oscrx/key.asc
+Preferred-Languages: nl, en
+Canonical: https://bierteam.github.io/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+wsBcBAABCgAGBQJfDLXPAAoJEF37oz4iRqzRE24H+wdutVFZRuqb86NpZae2ehOb
+0KJz0ke+ytr76QmqGBsXKcLYpINLkFoy6BZDG2+qTozMRsWtz3+xOFaDNn2+1njp
+z2EVY74nC1HVpaO93RTiZE6/2lORA6Szl71/PlxTpWjqbVPi+ZzU3WmuHzr6o6mH
+qM8poi7FN91lZ8G0gkfnV2sNEK+m0m3doAlRDb4nExo0aXWsvrMiAV3QykL0fkza
+sEmrFSFsqgSqn16j19vwCcQPAYBUqbDDXLkVUqI8FPPzIZZKcz7fdorysp8xE9jU
+8KAGuFhdtMUZl+CoChvER9e4wGjpQ83hkBpj4MUMm1wLCj+pKJLzeXdyGzPSxbI=
+=3bxI
+-----END PGP SIGNATURE-----
