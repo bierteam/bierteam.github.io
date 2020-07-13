@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/oscrx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bierteam.github.io
+  * I am oscrx (https://keybase.io/oscrx) on keybase.
+  * I have a public key ASAjIP1DijJ-rtjUlWTXmcIjVevzo77QQdyAg4daSitvCgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010160dd78887488b3af3441f3353eecba2c3605e153458ad3a604e4bb200c608d690a",
+      "host": "keybase.io",
+      "kid": "01202320fd438a327eaed8d49564d799c22355ebf3a3bed041dc8083875a4a2b6f0a0a",
+      "uid": "66c275e0c0a05383be44f1c121255419",
+      "username": "oscrx"
+    },
+    "merkle_root": {
+      "ctime": 1594667895,
+      "hash": "a4e8fde6d7c47f145d794a9c90a26434f8ac4eccb2adf3394b8945b1ee2513ae10e3b00b1bb8c0c5a406ca0cac347ebc62615192ca00131644950ef6a307fbd4",
+      "hash_meta": "d99f11a85d217033dd972ced0e8624e45b0f5a828b988dec26c97da69a688755",
+      "seqno": 16959888
+    },
+    "service": {
+      "entropy": "UtqEjNrGQ+DiIUuwSn3zdgdQ",
+      "hostname": "bierteam.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1594667909,
+  "expire_in": 504576000,
+  "prev": "bc6b6980e4695002fee150e69aeddd8b7144b1839fde9230218845c7fc8a2951",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIyD9Q4oyfq7Y1JVk15nCI1Xr86O+0EHcgIOHWkorbwoKp3BheWxvYWTESpcCOsQgvGtpgORpUAL+4VDmmu3di3FEsYOf3pIwIYhFx/yKKVHEIDlxLDhZxRjfFAKN2tZUDjNUwesuQQgAdH2XkM7Toaq4AgHCo3NpZ8RAdEUi5Wj0QTqVsd8kmer645L+OnMsF6NHFoS2n3V2qtQ2IX9brJsolOjKYPLdJiFwds4i2CRl3ghpQ+DSKbFpBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDe91RDovfuxV6hRzYHEmNm6eqLBy4StQr3+MVJPiWDVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oscrx
+
+==================================================================
